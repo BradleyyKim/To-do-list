@@ -15,7 +15,7 @@ function App() {
   // console.log(toDos);
   return (
     <div>
-      <h1>To do list (count: {toDos.length})</h1>
+      <h1>오늘 끝낼 일(개수 : {toDos.length})</h1>
       <form onSubmit={onSubmit}>
         <input onChange={onChange} value={toDo} type="text" placeholder="Write your to do..." />
         <button>Add to do</button>
