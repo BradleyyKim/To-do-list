@@ -1,6 +1,6 @@
 {
-  "name": "To-do-list",
-  "homepage": "https://todolist.bradley.io",
+  "name": "to-do-list",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
